@@ -1,4 +1,14 @@
 # Advent_of_Code_2024
+**12/4/2025** -  - Day 3pt1 ~ 10 minutes ; 3pt2 ~ 3 hours
+> *Reflections*
+> > Read the prompt and immediately wanted to go the RegEx route. Part 1 went super smoothly with some refreshers.
+
+
+> > *Difficulties*
+> > > Still wanted to stick with RegEx for Part 2; I think I spent too much time trying to force it and use different re functions.
+> > > Restarted the theorization; Once I decided to break the string up using split() and find(), life got much easier.
+
+
 **12/2/2025** -  - Day 2 ~ 3 hours
 > *Reflections*
 > > Opening files and manipulating raw input came a lot quicker.
